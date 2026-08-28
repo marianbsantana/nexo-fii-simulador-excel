@@ -25,19 +25,19 @@ A ferramenta permite realizar projeções com base no aporte mensal, no período
 
 A tela principal reúne as configurações, os campos de simulação e os resultados projetados.
 
-![Tela principal do Nexo FII](images/simulador-principal.png)
+![Tela principal do Nexo FII](images/simulador-principal.png.png)
 
 ### Meta de renda e distribuição
 
 A ferramenta calcula o patrimônio necessário para alcançar uma meta de renda mensal e apresenta uma distribuição educacional do aporte conforme o perfil selecionado.
 
-![Meta de renda e distribuição por perfil](images/meta-perfil-distribuicao.png)
+![Meta de renda e distribuição por perfil](images/meta-perfil-distribuicao.png.png)
 
 ### Tabela de apoio
 
 A tabela de apoio relaciona os perfis aos tipos de fundos imobiliários. A função PROCV é utilizada para localizar automaticamente o percentual correspondente.
 
-![Aplicação da função PROCV](images/tabela-apoio-procv.png)
+![Aplicação da função PROCV](images/tabela-apoio-procv.png.png)
 
 ## Conceitos aplicados
 
@@ -55,7 +55,7 @@ Durante o desenvolvimento, foram utilizados:
 
 ## Como utilizar
 
-1. Faça o download do arquivo `nexo-fii-simulador.xlsx`;
+1. Faça o download do arquivo `nexo-fii-simulador.xlsx.xlsx`;
 2. Abra a planilha no Microsoft Excel;
 3. Preencha os campos destinados ao usuário;
 4. Escolha o perfil na lista suspensa;
